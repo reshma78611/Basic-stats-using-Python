@@ -61,5 +61,5 @@
 
         Python
 
-## **The Codes regarding basic statistical operations and their datasets are present in this Repository in detail**
+**The Codes regarding basic statistical operations and their datasets are present in this Repository in detail**
           
