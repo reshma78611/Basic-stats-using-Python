@@ -1,6 +1,6 @@
 # Basic-stats-using-Python
 
-Basic Statistical operations such as :
+## Basic Statistical operations such as :
 
 ## 1. Measures of central tendency : 
 
@@ -61,3 +61,5 @@ Basic Statistical operations such as :
 
         Python
 
+## **The Codes regarding basic statistical operations and their datasets are present in this Repository in detail**
+          
